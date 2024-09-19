@@ -105,10 +105,12 @@ button {
     .description{
         display: none;
     }
-    .btn, button {
-        width: 303px;
+    .btn {
         margin-left:2px ;
         margin-bottom: 10px;
+    }
+    .btn a{
+        margin-top: 20px;
     }
     input[type="text"] {
         margin-top: 10px;
