@@ -109,6 +109,9 @@ button {
         margin-left:2px ;
         margin-bottom: 10px;
     }
+    button{
+        width: 100%;
+    }
     .btn a{
         margin-top: 20px;
     }
